@@ -3,6 +3,9 @@
 GPT Assistant - Terminal-based AI command generator
 A cross-platform tool that uses Gemini AI to generate and execute shell commands
 """
+"""
+import code locally to run the assistant. You'll need ur own gemini api key and should have python installed. 
+"""
 
 import os
 import sys

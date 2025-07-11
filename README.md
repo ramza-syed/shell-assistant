@@ -116,5 +116,3 @@ Usage data
 
 License
 MIT License. See LICENSE for more details.
-
-Would you like me t

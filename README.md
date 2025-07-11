@@ -116,3 +116,30 @@ Usage data
 
 License
 MIT License. See LICENSE for more details.
+
+**To run the assistant locally, make sure you have the following installed:
+**
+Python 3.7 or later
+Required to execute the assistant’s scripts.
+
+Check version:
+
+bash
+python3 --version
+
+pip (Python package manager)
+Required to install dependencies.
+
+Check version:
+
+bash
+pip3 --version
+
+Required Python packages
+Install all dependencies using pip:
+
+bash
+pip install google-generativeai
+
+To run the file, run : 
+python assistant.py <prompt> (if u have python instaglled, u can write ur prompt in place of <prompt>)
